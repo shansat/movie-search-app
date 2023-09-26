@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "image": "images/image1.jpg",
+      "releaseYear": 1994,
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "image": "images/image2.jpeg",
+      "releaseYear": 1972,
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+      "id": 3,
+      "title": "Pulp Fiction",
+      "image": "images/image3.jpeg",
+      "releaseYear": 1994,
+      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "image": "images/image4.jpeg",
+      "releaseYear": 2008,
+      "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "id": 5,
+      "title": "Forrest Gump",
+      "image": "images/image5.jpeg",
+      "releaseYear": 1994,
+      "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75."
+    }
+  ]
+  
